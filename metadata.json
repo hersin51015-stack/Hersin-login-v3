@@ -1,0 +1,6 @@
+{
+  "name": "hersin Login App",
+  "description": "A sleek login and account creation app with Google Sign-In and Firebase integration inspired by custom design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
